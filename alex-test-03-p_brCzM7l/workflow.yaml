@@ -1,0 +1,7 @@
+schema: workflow/2022.04
+name: alex-test-03
+settings:
+  error_notification: true
+triggers:
+- id: hi_XMHy1G7
+
