@@ -8,4 +8,7 @@ steps:
 - namespace: code
   runtime: nodejs20.x
   uses: "./code/entry.js"
+- namespace: code1
+  runtime: nodejs20.x
+  uses: "./code1/entry.js"
 
